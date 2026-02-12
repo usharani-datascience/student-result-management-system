@@ -1,0 +1,1 @@
+80,C:\Users\ushar\AppData\Local\Programs\Python\Python314\python.exe c:/Users/ushar/OneDrive/Desktop/Student_Result_Project/student_result.py,285,A+
